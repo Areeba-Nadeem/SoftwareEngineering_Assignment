@@ -34,6 +34,8 @@ Empirical data was collected through semi-structured interviews were used to acq
 G. Data Analysis: After the interviews, audio recordings of interview were sent for transcription and a summary of each interview was prepared by the first author highlighting the important focus points of the interview. The investigated points from the summary were cross-checked several times with the audio recordings and interview transcripts obtained after transcription. A theoretical thematic data analysis approach was selected for coding . The first author coded each relevant segment of the interview transcript in Vivo. For the first iteration, the objective was to identify the use-cases discussed by each interviewee and phases of data analytics used by their team. After identifying the phases, a second iteration was performed to investigate the impediments encountered to completely set up Data Ops practices at Ericsson. Thematic coding was performed by setting high level themes as (i) Data Collection, (ii) Data Analytics (iii) Data Ops (iv) Automation (v) Data Testing, (vi) Data monitoring, (vii) Agile environment. After careful analysis of collected data, the first two authors agreed on the presentation of results in the paper. From the analysis, results were tabulated and sent to the other authors for their reflections and then the final summary of the cases and results were sent to the interviewees for validating the inferred results.
 Conclusion:
 The collection of high quality data gives companies a significant competitive advantage in their decision making process. It helps in understanding customer behavior and enables the use and deployment of new technologies based on machine learning.
+
+
 Paper#2:
 -----------------
 Title:
